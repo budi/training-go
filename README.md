@@ -7,4 +7,4 @@ Just some training stuff written in go.
 
 | | Title | Description |
 |---|:---:|:---|
-| 1 | [`longest_subsequence`](/longest_subsequence) | Find the longest subsequence from a list of words. |
+| 1 | [`longestsub`](/longestsub) | Find the longest subsequence from a list of words. |
