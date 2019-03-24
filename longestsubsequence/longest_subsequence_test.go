@@ -1,4 +1,4 @@
-package longestsub
+package longestsubsequence
 
 import (
 	"fmt"
