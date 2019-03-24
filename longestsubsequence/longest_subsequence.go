@@ -16,6 +16,7 @@ func (s byLength) Swap(i, j int) {
 }
 
 func (s byLength) Less(i, j int) bool {
+	// reverse Less, going from longest to shortest
 	return len(s[i]) > len(s[j])
 }
 
