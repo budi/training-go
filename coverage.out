@@ -1,0 +1,13 @@
+mode: set
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:10.29,12.2 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:14.34,16.2 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:18.39,20.2 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:23.50,25.33 2 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:33.2,33.13 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:25.33,27.14 2 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:27.14,29.4 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:29.9,31.4 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:37.64,40.29 3 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:46.2,46.16 1 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:40.29,42.68 2 1
+github.com/budi/training-go/longest_subsequence/longest_subsequence.go:42.68,44.4 1 1
