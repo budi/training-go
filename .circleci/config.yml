@@ -32,7 +32,7 @@ jobs:
       - run:
           name: test
           command: |
-            mkdir -p $GOCACHE
+            mkdir -p /tmp/go/cache
             go test -p 6 -race -coverprofile=coverage.out -covermode=atomic -v ./...
       - save_cache:
           key: build-cache-{{ .Branch }}-{{ .Environment.CIRCLE_BUILD_NUM }}
