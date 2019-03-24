@@ -7,7 +7,7 @@
 
 Just some training stuff written in go.
 
-| | Title | Description |
-|---|:---:|:---|
-| 1 | [`longestsubsequence`](/longestsubsequence) | Find the longest subsequence from a list of words. |
-| 2 | [`stringsplosion`](/stringsplosion) | Explode your string. |
+| Title | Description |
+|:---|:---|
+| [`longestsubsequence`](/longestsubsequence) | Find the longest subsequence from a list of words. |
+| [`stringsplosion`](/stringsplosion) | Explode your string. |
