@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func ExampleStringSplosion_Code() {
+func ExampleStringSplosion() {
 	fmt.Println(StringSplosion("Code"))
 	// Output: CCoCodCode
 }
